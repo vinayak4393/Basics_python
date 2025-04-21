@@ -1,6 +1,7 @@
-# for loop
+# for loop used to execute a block of code multiple times over a sequence
+#  it is used when we know the range i.e, start and end of loop 
 # loops are used to execute a block of code multiple times.
-# loops allows you to repeat a block of code as long as certain condition is true
+# 
 
 key = "devops" 
 

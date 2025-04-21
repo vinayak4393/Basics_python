@@ -1,4 +1,5 @@
 # It is reusable block of code that performs specific task
+# no need to write a code again and again 
 # camel case is usually used
 
 def add2Num(x,y):

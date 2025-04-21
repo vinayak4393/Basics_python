@@ -123,7 +123,7 @@ print('orange' not in fruits) #Output: True
 
 
 
-
+# Ternary operators
 
 
 

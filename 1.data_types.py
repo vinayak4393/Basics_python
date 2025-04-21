@@ -1,4 +1,8 @@
-""" Data types
+""" Data types ==>
+Data types are classifications that specify which type of value a variable can hold in programming. 
+They define the operations that can be performed on the data, 
+the amount of memory allocated for it, and how the data is stored.
+
 Integer ==> 10
 Float ==> 10.5
 Complex ==> 10+20j
@@ -10,6 +14,7 @@ Dictionary ==> {"a":10}
 Boolean type ==> (true or false)
 None
 """
+
 num1 = 10
 type(num1)
 print("Data type is of",type(num1))
